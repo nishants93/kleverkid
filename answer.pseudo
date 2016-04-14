@@ -1,1 +1,9 @@
-
+<?php
+/*
+function getName3($name) {
+	$name = strtolower($name);
+	$name = ucfirst($name);
+	return $name . " " . rand(6,15);
+}
+*/
+?>
